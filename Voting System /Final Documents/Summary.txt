@@ -1,0 +1,26 @@
+President Name: Rogelio Smith
+
+GSU Officer: Dan Cherry
+GSU Officer: Matthew Dohse
+GSU Officer: Luz Morales
+GSU Officer: Lila Veach
+
+Computer Science: Martin Chase
+Computer Science: Sonia Adams
+Computer Science: Rose Korsmeyer
+Computer Science: Diana Taylor
+
+Performing Arts: Jennifer Cain
+Performing Arts: Lawrence Miah
+Performing Arts: Carlton Jones
+Performing Arts: Albert Vizarro
+
+Engineering: Timothy Toth
+Engineering: Paul Christopherso
+Engineering: Howard Ashley
+Engineering: Anita Burr
+
+Economics: Teri Weich
+Economics: Larry Omar
+Economics: Alma Franklin
+Economics: Susie Lawson
